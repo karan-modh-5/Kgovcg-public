@@ -63,3 +63,10 @@ File 'kgovcg/site-name/kgovcg.ovpn' created successfully!
 - Ensure the required certificate files exist before running the script.
 - The script automatically creates directories if they do not exist.
 - If no arguments are provided, the script will guide you through the setup interactively.
+
+---
+
+## Download
+[Kgovcg.py](https://karan-modh.tech/download/kgovcg.py)
+
+---
